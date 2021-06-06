@@ -1,0 +1,11 @@
+{
+    "require": {
+        "illuminate/database": "^8.15",
+        "illuminate/events": "^8.15"
+    },
+    "autoload": {
+        "psr-4": {
+            "app\\": "app/"
+        }
+    }
+}
